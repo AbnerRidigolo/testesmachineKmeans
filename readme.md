@@ -48,7 +48,5 @@ Este projeto foi desenvolvido como parte de um exercício prático utilizando o 
 2. Envie também o arquivo CSV no mesmo diretório.
 3. Execute as células na ordem.
 
-## ✍️ Autor
-
 Desenvolvido como parte de um exercício acadêmico na disciplina de Ciência de Dados.
 
