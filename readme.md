@@ -2,12 +2,12 @@
 
 Este projeto foi desenvolvido como parte de um exercício prático utilizando o Google Colab para análise exploratória de dados e cálculo de derivadas.
 
-## 📁 Arquivos
+##  Arquivos
 
 - `dados_1997_2011_paises_csv.csv`: base de dados com indicadores de países entre 1997 e 2011.
 - `Testemachine.ipynb`: notebook com carregamento dos dados, análise estatística e resolução de derivadas.
 
-## 🚀 Etapas do Projeto
+##  Etapas do Projeto
 
 1. **Carregamento dos dados**  
    Utilização do `pandas` para importar e visualizar os dados de países com codificação `latin1`.
@@ -30,19 +30,19 @@ Este projeto foi desenvolvido como parte de um exercício prático utilizando o 
    - A) \( f(x) = 2x^2 + 5x + 3 \)
    - B) \( f(x) = (5x + 3) \cdot (3x - 2) \)
 
-## 🧮 Tecnologias e Bibliotecas
+##  Tecnologias e Bibliotecas
 
 - Python 3
 - Pandas
 - Google Colab
 - SymPy (para cálculo simbólico)
 
-## 📝 Resultados
+##  Resultados
 
 - O Brasil apresentou valores menores de IDH e competitividade em comparação à Alemanha na média do período.
 - As derivadas foram calculadas corretamente utilizando regras básicas do cálculo diferencial.
 
-## 📌 Como executar
+##  Como executar
 
 1. Faça o upload do notebook no [Google Colab](https://colab.research.google.com/)
 2. Envie também o arquivo CSV no mesmo diretório.
